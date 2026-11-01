@@ -60,7 +60,8 @@
      }
     }
    }
-  ]
+  ],
+  "status": "scheduled"
  },
  {
   "id": "w1-thu",
@@ -107,7 +108,8 @@
      }
     }
    }
-  ]
+  ],
+  "status": "scheduled"
  },
  {
   "id": "w1-sat",
@@ -162,7 +164,8 @@
      }
     }
    }
-  ]
+  ],
+  "status": "scheduled"
  },
  {
   "id": "w2-tue",
@@ -209,7 +212,8 @@
      }
     }
    }
-  ]
+  ],
+  "status": "scheduled"
  },
  {
   "id": "w2-wed",
@@ -264,7 +268,8 @@
      }
     }
    }
-  ]
+  ],
+  "status": "scheduled"
  },
  {
   "id": "w2-thu",
@@ -311,12 +316,13 @@
      }
     }
    }
-  ]
+  ],
+  "status": "scheduled"
  },
  {
   "id": "w2-sat",
   "dueAt": "2026-11-14T09:10:00-05:00",
-  "text": "Fewer no-shows start before the appointment. Save this 👇🏾\n\n✅ Send a confirmation right after booking\n✅ Send a reminder the day before\n✅ Make rescheduling easy (a moved appointment beats an empty chair)\n✅ Keep a short waitlist for last-minute openings\n\nSartorialAI sends the confirmations and reminders for you.\n\nStart free at SartorialAI.co 👉🏾 link in bio\n\n#NoShows #SalonOwner #MedSpa #Dental #SmallBusinessTips",
+  "text": "Fewer no-shows start before the appointment. Save this 👇🏾\n\n✅ Send a confirmation right after booking\n✅ Send a reminder the day before\n✅ Make rescheduling easy (a moved appointment beats an empty chair)\n✅ Keep a short waitlist for last-minute openings\n\nSartorialAI sends the confirmations and reminders for you.\n\nStart free at SartorialAI.co 👉🏾 link in bio\n\n#NoShows #SalonOwner #MedSpa #Dental #MidSizeBusiness #SmallBusinessTips",
   "assets": [
    {
     "image": {
@@ -366,12 +372,13 @@
      }
     }
    }
-  ]
+  ],
+  "status": "pending"
  },
  {
   "id": "w3-tue",
   "dueAt": "2026-11-17T08:10:00-05:00",
-  "text": "The holiday rush is almost here 🎄 Is your front desk ready?\n\nThanksgiving through New Year's is the busiest stretch of the year for a lot of local businesses. It's also when staff take time off.\n\nMore calls. Fewer people. That's how calls get missed.\n\nIf you're going to set up an AI front desk, now is the time, not December 20th. Give it a couple of weeks to learn your business and walk into the holidays covered.\n\nStart free at SartorialAI.co 👉🏾 link in bio\n\n#HolidaySeason #SmallBusiness #Q4 #BusinessOwner #AIReceptionist",
+  "text": "The holiday rush is almost here 🎄 Is your front desk ready?\n\nThanksgiving through New Year's is the busiest stretch of the year for a lot of local businesses. It's also when staff take time off.\n\nMore calls. Fewer people. That's how calls get missed.\n\nIf you're going to set up an AI front desk, now is the time, not December 20th. Give it a couple of weeks to learn your business and walk into the holidays covered.\n\nStart free at SartorialAI.co 👉🏾 link in bio\n\n#HolidaySeason #SmallBusiness #MidSizeBusiness #LawFirm #Legal #Q4 #BusinessOwner #AIReceptionist",
   "assets": [
    {
     "image": {
@@ -413,12 +420,13 @@
      }
     }
    }
-  ]
+  ],
+  "status": "pending"
  },
  {
   "id": "w3-wed",
   "dueAt": "2026-11-18T12:10:00-05:00",
-  "text": "There's money sitting in your business you already paid for. It's your old leads list.\n\nThe people who called and never booked. The estimates that never closed. The customers who came once and never came back.\n\nA lesson from years in sales: a \"no\" is usually a \"not right now.\"\n\nA friendly follow-up can turn that list into booked appointments. The hard part was never the message. It was finding time to send it. That's what SartorialAI is for.\n\nWhen's the last time you followed up with your old leads? 👇🏾\n\n#Sales #LeadGeneration #SmallBusiness #CustomerRetention",
+  "text": "There's money sitting in your business you already paid for. It's your old leads list.\n\nThe people who called and never booked. The estimates that never closed. The customers who came once and never came back.\n\nA lesson from years in sales: a \"no\" is usually a \"not right now.\"\n\nA friendly follow-up can turn that list into booked appointments. The hard part was never the message. It was finding time to send it. That's what SartorialAI is for.\n\nWhen's the last time you followed up with your old leads? 👇🏾\n\n#Sales #LeadGeneration #SmallBusiness #MidSizeBusiness #LawFirm #Attorney #CustomerRetention",
   "assets": [
    {
     "image": {
@@ -460,12 +468,13 @@
      }
     }
    }
-  ]
+  ],
+  "status": "pending"
  },
  {
   "id": "w3-thu",
   "dueAt": "2026-11-19T18:10:00-05:00",
-  "text": "\"Does this replace my receptionist?\"\n\nNo. It covers what one person can't.\n\nA person gives you warmth, judgment and someone to greet walk-ins, about 40 hours a week. Coverage gives you every call, text and DM answered all 168 hours, including when three calls hit at once.\n\nThe smartest businesses do both: great people in the building, AI covering everything around them.\n\nWhich one is your business short on? 👇🏾\n\n#Hiring #SmallBusiness #Operations #FrontDesk #AIReceptionist",
+  "text": "\"Does this replace my receptionist?\"\n\nNo. It covers what one person can't.\n\nA person gives you warmth, judgment and someone to greet walk-ins, about 40 hours a week. Coverage gives you every call, text and DM answered all 168 hours, including when three calls hit at once.\n\nThe smartest businesses do both: great people in the building, AI covering everything around them.\n\nWhich one is your business short on? 👇🏾\n\n#Hiring #SmallBusiness #MidSizeBusiness #LawFirm #Legal #Operations #FrontDesk #AIReceptionist",
   "assets": [
    {
     "image": {
@@ -515,12 +524,13 @@
      }
     }
    }
-  ]
+  ],
+  "status": "pending"
  },
  {
   "id": "w3-sat",
   "dueAt": "2026-11-21T09:10:00-05:00",
-  "text": "Holiday front-desk checklist. Save this for the rush 👇🏾\n\n1. Post your holiday hours on Google, your website and Instagram\n2. Decide who answers after hours (if it's voicemail, fix that first)\n3. Make booking possible without you\n4. Turn on appointment reminders\n5. Ask happy holiday customers for a review\n\nSartorialAI handles 2 through 5.\n\nStart free at SartorialAI.co 👉🏾 link in bio\n\n#HolidaySeason #SmallBusinessTips #LocalBusiness #Q4",
+  "text": "Holiday front-desk checklist. Save this for the rush 👇🏾\n\n1. Post your holiday hours on Google, your website and Instagram\n2. Decide who answers after hours (if it's voicemail, fix that first)\n3. Make booking possible without you\n4. Turn on appointment reminders\n5. Ask happy holiday customers for a review\n\nSartorialAI handles 2 through 5.\n\nStart free at SartorialAI.co 👉🏾 link in bio\n\n#HolidaySeason #SmallBusinessTips #MidSizeBusiness #LawFirm #LocalBusiness #Q4",
   "assets": [
    {
     "image": {
@@ -578,12 +588,13 @@
      }
     }
    }
-  ]
+  ],
+  "status": "pending"
  },
  {
   "id": "w4-tue",
   "dueAt": "2026-11-24T08:10:00-05:00",
-  "text": "Law firms: your next client is calling three firms right now ⚖️\n\nWhen someone needs a lawyer, it's usually urgent. They don't leave voicemails. They go down the list until someone picks up.\n\nWhere firms lose cases before they start: calls after 5 PM, intake tied up with existing clients, web forms waiting a day for a callback.\n\nSartorialAI answers every call and chat 24/7, asks your intake questions and books consultations on your calendar.\n\nStart free at SartorialAI.co 👉🏾 link in bio\n\n#LawFirm #LegalMarketing #Attorney #LegalIntake #AIReceptionist",
+  "text": "Law firms: your next client is calling three firms right now ⚖️\n\nWhen someone needs a lawyer, it's usually urgent. They don't leave voicemails. They go down the list until someone picks up.\n\nWhere firms lose cases before they start: calls after 5 PM, intake tied up with existing clients, web forms waiting a day for a callback.\n\nSartorialAI answers every call and chat 24/7, asks your intake questions and books consultations on your calendar.\n\nStart free at SartorialAI.co 👉🏾 link in bio\n\n#LawFirm #Legal #Attorney #Lawyer #LegalTech #LawFirmMarketing #LegalIntake #AIReceptionist",
   "assets": [
    {
     "image": {
@@ -633,12 +644,13 @@
      }
     }
    }
-  ]
+  ],
+  "status": "pending"
  },
  {
   "id": "w4-wed",
   "dueAt": "2026-11-25T12:10:00-05:00",
-  "text": "Dental and medical offices: new patients call on their lunch break 🦷\n\nThat's your team's lunch break too. So the phone rings, goes to hold or voicemail, and the patient calls the next practice.\n\nSartorialAI answers every call, books new patient appointments, handles hours and insurance FAQs, and sends reminders before visits.\n\nYour team gets to focus on the patients in the chair, not the phone on the wall.\n\nStart free at SartorialAI.co 👉🏾 link in bio\n\n#Dental #DentalPractice #Healthcare #PatientExperience #AIReceptionist",
+  "text": "Dental and medical offices: new patients call on their lunch break 🦷\n\nThat's your team's lunch break too. So the phone rings, goes to hold or voicemail, and the patient calls the next practice.\n\nSartorialAI answers every call, books new patient appointments, handles hours and insurance FAQs, and sends reminders before visits.\n\nYour team gets to focus on the patients in the chair, not the phone on the wall.\n\nStart free at SartorialAI.co 👉🏾 link in bio\n\n#Dental #DentalPractice #Healthcare #PatientExperience #MidSizeBusiness #AIReceptionist",
   "assets": [
    {
     "image": {
@@ -680,12 +692,13 @@
      }
     }
    }
-  ]
+  ],
+  "status": "pending"
  },
  {
   "id": "w4-fri",
   "dueAt": "2026-11-27T09:10:00-05:00",
-  "text": "\"What does it cost to get started?\"\n\nNothing. Start free at SartorialAI.co, no credit card.\n\nWhen you're ready, paid plans start at $497 a month. Pick the plan that fits how much of your front desk you want automated.\n\nThe right comparison isn't $0. It's the calls, bookings and follow-ups slipping through today.\n\nStart free 👉🏾 link in bio\n\n#SmallBusiness #AIReceptionist #BusinessGrowth #SartorialAI",
+  "text": "\"What does it cost to get started?\"\n\nNothing. Start free at SartorialAI.co, no credit card.\n\nWhen you're ready, paid plans start at $497 a month. Pick the plan that fits how much of your front desk you want automated.\n\nThe right comparison isn't $0. It's the calls, bookings and follow-ups slipping through today.\n\nStart free 👉🏾 link in bio\n\n#SmallBusiness #MidSizeBusiness #GrowingBusiness #LawFirm #Legal #AIReceptionist #SartorialAI",
   "assets": [
    {
     "image": {
@@ -727,12 +740,13 @@
      }
     }
    }
-  ]
+  ],
+  "status": "pending"
  },
  {
   "id": "w4-sat",
   "dueAt": "2026-11-28T09:10:00-05:00",
-  "text": "Your happiest customers would leave you a 5-star review ⭐⭐⭐⭐⭐ You just never asked.\n\nNew customers check Google before they call. But asking for reviews is the task that always falls off the list. The job ends, everyone's busy, and the moment passes.\n\nAutomate it: a friendly request right after the visit, a gentle reminder if they haven't left one, and your profile keeps growing.\n\nSartorialAI handles review requests alongside answering, booking and follow-up.\n\nStart free at SartorialAI.co 👉🏾 link in bio\n\n#GoogleReviews #ReputationManagement #SmallBusiness #LocalMarketing",
+  "text": "Your happiest customers would leave you a 5-star review ⭐⭐⭐⭐⭐ You just never asked.\n\nNew customers check Google before they call. But asking for reviews is the task that always falls off the list. The job ends, everyone's busy, and the moment passes.\n\nAutomate it: a friendly request right after the visit, a gentle reminder if they haven't left one, and your profile keeps growing.\n\nSartorialAI handles review requests alongside answering, booking and follow-up.\n\nStart free at SartorialAI.co 👉🏾 link in bio\n\n#GoogleReviews #ReputationManagement #SmallBusiness #MidSizeBusiness #LawFirm #LocalMarketing",
   "assets": [
    {
     "image": {
@@ -774,6 +788,7 @@
      }
     }
    }
-  ]
+  ],
+  "status": "pending"
  }
 ]
